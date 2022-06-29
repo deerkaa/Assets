@@ -496,7 +496,6 @@
 	"spawn.parkour.noGadgetChange": "Вы не можете менять гаджеты на паркуре.",
 	"spawn.parkour.noFly": "Вы не можете летать на паркуре.",
 	"spawn.parkour.noInteractions": "На паркуре все взаимодействия всегда отключены.",
-	"spawn.parkour.onlyModern": "К сожалению, этот паркур можно пройти только с 1.13+, потому что на нём есть уровень с полётом на трезубце с зачарованием Тягун.",
 	"spawn.parkour.start": "Начало",
 	"spawn.parkour.end": "Конец",
 	"spawn.parkour.ladders": "Лестницы",

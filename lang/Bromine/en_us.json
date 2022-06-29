@@ -496,7 +496,6 @@
 	"spawn.parkour.noGadgetChange": "You can't change gadgets on the parkour.",
 	"spawn.parkour.noFly": "You can't fly on the parkour.",
 	"spawn.parkour.noInteractions": "All interactions are always disabled on the parkour.",
-	"spawn.parkour.onlyModern": "This parkour can only be completed from 1.13 or higher versions.",
 	"spawn.parkour.start": "Start",
 	"spawn.parkour.end": "End",
 	"spawn.parkour.ladders": "Ladders",
