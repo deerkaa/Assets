@@ -8,7 +8,7 @@ body:
     id: solution
     attributes:
       label: "Describe the feature"
-      description: "A clear description of the possibly-related problem and of the suggesten."
+      description: "A clear description of the possibly-related problem and of the suggestion."
       placeholder: "e.g. An option on the PvP gamemode to make bow boosting (like in 1.12.2) with the optional difficulty configuration."
     validations:
       required: true
