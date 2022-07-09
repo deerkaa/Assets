@@ -1,7 +1,7 @@
 name: Feature Request
 description: Suggest a feature or an improvement for the server
 title: "[Feature] <Enter title here>"
-labels: ["feature"]
+labels: ["type: feature"]
 assignees: []
 body:
   - type: textarea
