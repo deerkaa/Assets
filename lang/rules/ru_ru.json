@@ -2,14 +2,14 @@
 	"general": {
 		"name": "Общие",
 		"rules": {
-			"1.0": "Играя на сервере, вы соглашаетесь с правилами сервера и обязуетесь их выполнять.",
+			"1.0": "Играя на сервере, вы соглашаетесь с правилами сервера и обязуетесь их соблюдать.",
 			"1.1": "Незнание правил не освобождает от ответственности.",
 			"1.2": "Данный свод правил может быть изменён и/или корректирован в любое время без уведомления и/или повторного соглашения игроков.",
 			"1.3": "Администрация сервера записывает все действия (включая сообщения чата и команды) игроков и имеет право использовать эту информацию в своих целях.",
 			"1.4": "Администрация имеет право удалить/аннулировать, заблокировать и/или выполнить любое другое действие с аккаунтом игрока без уведомления и/или соглашения.",
 			"1.5": "Администрация сервера имеет право выдавать наказания (банить, кикать и/или мутить) по личному усмотрению и/или игнорируя данный свод правил.",
 			"1.6": "При указании нескольких вариантов наказаний в правилах сервера, администратор вправе выбрать любое из них.",
-			"1.7": "Соглашаясь с данным сводом правил вы также соглашаетесь с лицензионным соглашением данного ПО: Everything, USBDeview, Shellbag Analyzer & Cleaner, LastActivityView, CCleaner, JD-GUI, ProcessHacker."
+			"1.7": "Соглашаясь с данным сводом правил вы также соглашаетесь с лицензионным соглашением ПО, используемого для проверок."
 		}
 	},
 	"account": {
@@ -91,10 +91,6 @@
 			"4.7": {
 				"rule": "Запрещены сообщения, содержащие более 50% символов в ЗАГЛАВНОМ/ВЕРХНЕМ регистре.",
 				"punishment": "Мут на 30 минут."
-			},
-			"4.8": {
-				"rule": "Запрещено просить привилегии у администрации сервера.",
-				"punishment": "Мут на 1 час."
 			}
 		},
 		"asterisks": [
@@ -124,7 +120,11 @@
 		"rules": {
 			"7.0": "Список разрешённых модификаций: Forge, Fabric, Fabric API, ModMenu, ClothConfig, Quilt, Badlion, Lunar, LabyMod, Feather, OptiFine, Sodium, Sodium Extra, Reese's Sodium Options, CullLeaves, Phosphor, LazyDFU, Lithium, Iris, ShadersMod, OkZoomer, WIZoom, Logical Zoom, VoxelMap, Xaero's Minimap, Xaero's BetterPvP, Journey Map, Waypoints, Xaero's World Map, Neat, Orderly, ToroHealth, DamageIndicator, GammaBright, GammaUtils, CommandMacros, Macrokey Keybinding, MouseTweaks, MouseWheelie, ItemScroller, AutoRespawn, BetterSprinting, ToggleSprint, Replay Mod, CustomCrosshair, ArmorStatusHUD, BetterHUD, EffectHUD, InventoryHUD, Keystrokes, SimpleVoiceChat*, PlasmoVoice*, Perspective, FreeLook, OldAnimations, NotEnoughAnimations, NEI, JEI, REI, ItemPhysics, BetterDroppedItems, MoreParticles, CITResewn, In-Game Account Switcher, ReAuth, OAuth, kennytv's epic force loading screen mod.",
 			"7.1": "Нерекомендуемые модификации**: Baritone, Schematica, Multiconnect, ViaFabric, ViaForge, BetterDiving, AquaAcrobatics, AutoClicker, TapeMouse.",
-			"7.2": "Запрещённые модификации: Любые читерские клиенты/модификации/инжекторы, Любые модификации и ПО на пинг, Макросы, Xray, Search, SkinBlinker, Derp, TickrateChanger, GoProne, Crawl, FreeCam, FakeLag, Pinger."
-		}
+			"7.2": "Запрещённые модификации: Любые читерские клиенты/модификации/инжекторы, Любые модификации и ПО на пинг, Макросы, Xray, Search, SkinBlinker, Derp, TickrateChanger, GoProne, Crawl, FreeCam, FakeLag, Pinger, ElytraSwap."
+		},
+		"asterisks": [
+			"Несмотря на то, что эти модификации разрешены, они не работают на сервере.",
+			"Данные модификации полностью разрешены, но могут вызвать проблемы с анти-читом и модерацией. Аппеляции на баны, выданные во время использования данных модификаций, не рассматриваются."
+		]
 	}
 }
