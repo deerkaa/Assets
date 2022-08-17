@@ -65,7 +65,8 @@
 		"minecraft:betterhud": "BetterHUD",
 		"minecraft:creativemd": "CreativeCore",
 		"damage_indicator:damage_indicator_channel": "Damage Indicator",
-		"dropoff:dropoff": "Dropoff (Quickstack)"
+		"dropoff:dropoff": "Dropoff (Quickstack)",
+		"nochatreports:sync": "NoChatReports"
 	},
 	"brands": {
 		"forge": "Forge",
