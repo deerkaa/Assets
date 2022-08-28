@@ -430,7 +430,7 @@
 	"command.party.join.broadcast": "%player% has joined to party.",
 	"command.party.members": [
 		"%owner%'s party:",
-		"Members (%playersSize%): %players%",
+		"Members (%membersSize%): %members%",
 		"Invitations (%invitedSize%): %invited%.",
 		"Blocked (%blockedSize%): %blocked%.",
 		"Party type: %type%."
