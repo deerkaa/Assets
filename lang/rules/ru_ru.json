@@ -103,24 +103,12 @@
 			"5.0": "На данный момент сервер не имеет пожертвований."
 		}
 	},
-	"checks": {
-		"name": "Проверки",
-		"rules": {
-			"6.0": "Администрация имеет право проводить проверки* игроков на использование стороннего запрещённого ПО, используя Discord или AnyDesk**, а также программы Everything, USBDeview, Shellbag Analyzer & Cleaner, LastActivityView, CCleaner, JD-GUI и ProcessHacker.",
-			"6.1": "За найденное стороннее запрещённое ПО во время проверки, отказ от проверки, признание ВО ВРЕМЯ проверки, помеху проверке, игнорирование проверки в течение 5 минут, неадекватное поведение при проверке, выход из игры до проверки или во время проверки вам будет выдано полное наказание.",
-			"6.2": "За признание в использовании запрещённого ПО до начала проверки вам будет выдано наказание, уменьшенное по времени в 3 раза."
-		},
-		"asterisks": [
-			"На данный момент рассматривается возможность отказа от проверок или переход на проверки только через Discord.",
-			"Из-за местного законодательства вы можете отказаться от использования данной программы без получения блокировки если вы проживаете на территории Канады, США, любой страны Евросоюза, Австралии или Швейцарии."
-		]
-	},
 	"allowedMods": {
 		"name": "Модификации",
 		"rules": {
-			"7.0": "Список разрешённых модификаций: Forge, Fabric, Fabric API, ModMenu, ClothConfig, Quilt, Badlion, Lunar, LabyMod, Feather, OptiFine, Sodium, Sodium Extra, Reese's Sodium Options, CullLeaves, Phosphor, LazyDFU, Lithium, Iris, ShadersMod, OkZoomer, WIZoom, Logical Zoom, VoxelMap, Xaero's Minimap, Xaero's BetterPvP, Journey Map, Waypoints, Xaero's World Map, Neat, Orderly, ToroHealth, DamageIndicator, GammaBright, GammaUtils, CommandMacros, Macrokey Keybinding, MouseTweaks, MouseWheelie, ItemScroller, AutoRespawn, BetterSprinting, ToggleSprint, Replay Mod, CustomCrosshair, ArmorStatusHUD, BetterHUD, EffectHUD, InventoryHUD, Keystrokes, SimpleVoiceChat*, PlasmoVoice*, Perspective, FreeLook, OldAnimations, NotEnoughAnimations, NEI, JEI, REI, ItemPhysics, BetterDroppedItems, MoreParticles, CITResewn, In-Game Account Switcher, ReAuth, OAuth, kennytv's epic force loading screen mod.",
-			"7.1": "Нерекомендуемые модификации**: Baritone, Schematica, Multiconnect, ViaFabric, ViaForge, BetterDiving, AquaAcrobatics, AutoClicker, TapeMouse.",
-			"7.2": "Запрещённые модификации: Любые читерские клиенты/модификации/инжекторы, Любые модификации и ПО на пинг, Макросы, Xray, Search, SkinBlinker, Derp, TickrateChanger, GoProne, Crawl, FreeCam, FakeLag, Pinger, ElytraSwap."
+			"6.0": "Список разрешённых модификаций: Forge, Fabric, Fabric API, ModMenu, ClothConfig, Quilt, Badlion, Lunar, LabyMod, Feather, OptiFine, Sodium, Sodium Extra, Reese's Sodium Options, CullLeaves, Phosphor, LazyDFU, Lithium, Iris, ShadersMod, OkZoomer, WIZoom, Logical Zoom, VoxelMap, Xaero's Minimap, Xaero's BetterPvP, Journey Map, Waypoints, Xaero's World Map, Neat, Orderly, ToroHealth, DamageIndicator, GammaBright, GammaUtils, CommandMacros, Macrokey Keybinding, MouseTweaks, MouseWheelie, ItemScroller, AutoRespawn, BetterSprinting, ToggleSprint, Replay Mod, CustomCrosshair, ArmorStatusHUD, BetterHUD, EffectHUD, InventoryHUD, Keystrokes, SimpleVoiceChat*, PlasmoVoice*, Perspective, FreeLook, OldAnimations, NotEnoughAnimations, NEI, JEI, REI, ItemPhysics, BetterDroppedItems, MoreParticles, CITResewn, In-Game Account Switcher, ReAuth, OAuth, kennytv's epic force loading screen mod.",
+			"6.1": "Нерекомендуемые модификации**: Baritone, Schematica, Multiconnect, ViaFabric, ViaForge, BetterDiving, AquaAcrobatics, AutoClicker, TapeMouse.",
+			"6.2": "Запрещённые модификации: Любые читерские клиенты/модификации/инжекторы, Любые модификации и ПО на пинг, Макросы, Xray, Search, SkinBlinker, Derp, TickrateChanger, GoProne, Crawl, FreeCam, FakeLag, Pinger, ElytraSwap."
 		},
 		"asterisks": [
 			"Несмотря на то, что эти модификации разрешены, они не работают на сервере.",
