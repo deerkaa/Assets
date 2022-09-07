@@ -51,10 +51,11 @@
 	"command.generic.decline": "(▼)",
 	"command.generic.tooltip": "(?)",
 	"command.generic.preview": "(*)",
-	"command.brominemc": [
-		"%plugin% версии %version%.",
-		"Авторы: %authors%.",
+	"command.bromine": [
+		"%plugin% от %authors%.",
+		"Для: %server% от %owners%.",
 		"Переводчики: %translators%.",
+		"Версия: %version%.",
 		"Сборка: %build%.",
 		"Ядро: %core%.",
 		"TPS: %tps%.",
