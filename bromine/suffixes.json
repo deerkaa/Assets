@@ -1,0 +1,39 @@
+{
+	"at": {
+		"icon": "BONE",
+		"component": "<gray>@"
+	},
+	"zxc": {
+		"icon": "CRYING_OBSIDIAN",
+		"component": "<dark_purple>zxc"
+	},
+	"pvp": {
+		"icon": "GOLDEN_SWORD",
+		"component": "<dark_red>PvP"
+	},
+	"fish": {
+		"icon": "COD",
+		"component": {
+			"en_us": "<dark_aqua>Fish",
+			"ru_ru": "<dark_aqua>Рыба"
+		}
+	},
+	"vtxr": {
+		"icon": "SOUL_CAMPFIRE",
+		"component": "<dark_purple>VT<gray>x<gold>R",
+		"donate": true
+	},
+	"heart": {
+		"icon": "ROSE_BUSH",
+		"component": "<red>❤"
+	},
+	"pve": {
+		"icon": "FISHING_ROD",
+		"component": "<yellow>PvE"
+	},
+	"lgbtq": {
+		"icon": "END_CRYSTAL",
+		"component": "<red>L<yellow>G<green>B<blue>T<dark_purple>Q",
+		"donate": true
+	}
+}

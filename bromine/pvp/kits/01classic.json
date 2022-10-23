@@ -1,0 +1,119 @@
+{
+	"id": "classic",
+	"names": {
+		"en_us": "Classic",
+		"ru_ru": "Классик"
+	},
+	"icon": "DIAMOND_CHESTPLATE",
+	"items": [
+		{
+			"id": "DIAMOND_SWORD",
+			"nbt": "{'Enchantments':[{id:'sharpness',lvl:5},{id:'fire_aspect',lvl:2},{id:'sweeping',lvl:3},{id:'unbreaking',lvl:3}]}"
+		},
+		{
+			"id": "COOKED_PORKCHOP",
+			"amount": 64
+		},
+		{
+			"id": "GOLDEN_APPLE",
+			"amount": 8
+		},
+		{
+			"id": "ENDER_PEARL",
+			"amount": 16
+		},
+		{
+			"id": "BOW",
+			"nbt": "{'Enchantments':[{id:'power',lvl:5},{id:'punch',lvl:2},{id:'infinity',lvl:1},{id:'flame',lvl:1},{id:'unbreaking',lvl:3}]}"
+		},
+		{
+			"id": "POTION",
+			"amount": 32,
+			"nbt": "{'BromineMC.MaxStackSize':32,'Potion':'strong_strength'}"
+		},
+		{
+			"id": "POTION",
+			"amount": 32,
+			"nbt": "{'BromineMC.MaxStackSize':32,'Potion':'long_fire_resistance'}"
+		},
+		{
+			"id": "POTION",
+			"amount": 32,
+			"nbt": "{'BromineMC.MaxStackSize':32,'Potion':'strong_swiftness'}"
+		},
+		{
+			"id": "SPLASH_POTION",
+			"nbt": "{'Potion':'strong_healing'}"
+		},
+		{
+			"id": "TIPPED_ARROW",
+			"amount": 64,
+			"nbt": "{'Potion':'strong_healing'}"
+		},
+		{
+			"id": "TIPPED_ARROW",
+			"amount": 64,
+			"nbt": "{'Potion':'strong_harming'}"
+		},
+		"ARROW",
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		{
+			"id": "ENDER_PEARL",
+			"amount": 16
+		},
+		{
+			"id": "ENDER_PEARL",
+			"amount": 16
+		},
+		{
+			"id": "SPLASH_POTION",
+			"nbt": "{'Potion':'strong_healing'}"
+		},
+		{
+			"id": "SPLASH_POTION",
+			"nbt": "{'Potion':'strong_healing'}"
+		},
+		{
+			"id": "SPLASH_POTION",
+			"nbt": "{'Potion':'strong_healing'}"
+		},
+		{
+			"id": "SPLASH_POTION",
+			"nbt": "{'Potion':'strong_healing'}"
+		},
+		{
+			"id": "DIAMOND_HELMET",
+			"nbt": "{'Enchantments':[{'id':'protection',lvl:4},{'id':'unbreaking',lvl:3},{'id':'respiration',lvl:3},{'id':'aqua_affinity',lvl:1}]}"
+		},
+		{
+			"id": "DIAMOND_CHESTPLATE",
+			"nbt": "{'Enchantments':[{'id':'protection',lvl:4},{'id':'unbreaking',lvl:3},{'id':'unbreaking',lvl:3}]}"
+		},
+		{
+			"id": "DIAMOND_LEGGINGS",
+			"nbt": "{'Enchantments':[{'id':'protection',lvl:4},{'id':'unbreaking',lvl:3},{'id':'unbreaking',lvl:3},{'id':'swift_sneak',lvl:3}]}"
+		},
+		{
+			"id": "DIAMOND_BOOTS",
+			"nbt": "{'Enchantments':[{'id':'protection',lvl:4},{'id':'unbreaking',lvl:3},{'id':'feather_falling',lvl:4},{'id':'depth_strider',lvl:3},{'id':'soul_speed',lvl:3}]}"
+		},
+		"TOTEM_OF_UNDYING"
+	]
+}

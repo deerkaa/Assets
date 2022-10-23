@@ -1,0 +1,9 @@
+{
+    "id": "ocean",
+    "name": "pvp.map.ocean",
+	"icon": "SCUTE",
+	"names": {
+		"en_us": "Ocean",
+		"ru_ru": "Океан"
+	}
+}

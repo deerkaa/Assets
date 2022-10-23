@@ -1,0 +1,9 @@
+{
+    "id": "cavesncliffs",
+    "name": "pvp.map.cavesncliffs",
+	"icon": "POINTED_DRIPSTONE",
+	"names": {
+		"en_us": "Caves & Cliffs",
+		"ru_ru": "Горы и пещеры"
+	}
+}

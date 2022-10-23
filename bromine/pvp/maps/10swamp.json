@@ -1,0 +1,9 @@
+{
+    "id": "swamp",
+    "name": "pvp.map.swamp",
+	"icon": "LILY_PAD",
+	"names": {
+		"en_us": "Swamp",
+		"ru_ru": "Болото"
+	}
+}

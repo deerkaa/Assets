@@ -1,0 +1,9 @@
+{
+    "id": "river",
+    "name": "pvp.map.river",
+	"icon": "CLAY",
+	"names": {
+		"en_us": "River",
+		"ru_ru": "Река"
+	}
+}

@@ -1,0 +1,9 @@
+{
+    "id": "superflat",
+    "name": "pvp.map.superflat",
+	"icon": "LIME_CARPET",
+	"names": {
+		"en_us": "Super-flat",
+		"ru_ru": "Супер-плоскость"
+	}
+}

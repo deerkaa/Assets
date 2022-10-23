@@ -1,0 +1,9 @@
+{
+    "id": "plains",
+    "name": "pvp.map.plains",
+	"icon": "GRASS",
+	"names": {
+		"en_us": "Plains",
+		"ru_ru": "Равнины"
+	}
+}

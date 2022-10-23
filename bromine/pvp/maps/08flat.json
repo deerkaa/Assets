@@ -1,0 +1,9 @@
+{
+    "id": "flat",
+    "name": "pvp.map.flat",
+	"icon": "RED_CARPET",
+	"names": {
+		"en_us": "Flat",
+		"ru_ru": "Плоскость"
+	}
+}

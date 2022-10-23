@@ -1,0 +1,9 @@
+{
+    "id": "desert",
+    "name": "pvp.map.desert",
+	"icon": "CACTUS",
+	"names": {
+		"en_us": "Desert",
+		"ru_ru": "Пустыня"
+	}
+}

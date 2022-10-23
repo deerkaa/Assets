@@ -1,0 +1,9 @@
+{
+    "id": "mesa",
+    "name": "pvp.map.mesa",
+	"icon": "RED_SAND",
+	"names": {
+		"en_us": "Mesa",
+		"ru_ru": "Меса"
+	}
+}

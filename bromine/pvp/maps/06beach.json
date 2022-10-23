@@ -1,0 +1,9 @@
+{
+    "id": "beach",
+    "name": "pvp.map.beach",
+	"icon": "WATER_BUCKET",
+	"names": {
+		"en_us": "Beach",
+		"ru_ru": "Пляж"
+	}
+}
