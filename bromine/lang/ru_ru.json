@@ -969,7 +969,7 @@
 	"mute.broadcast": "%player% замучен. %tooltip%",
 	"mute.broadcast.tooltip": [
 		"Причина: %reason%.",
-		"Забанил: %by%.",
+		"Замутил: %by%.",
 		"Время окончания: %end%. (%relativeEnd%)"
 	],
 	"mute.usage": "Замутить игрока",
