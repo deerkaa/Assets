@@ -60,6 +60,7 @@
 	"command.notNow": "Вы не можете использовать эту команду сейчас: %reason%.",
 	"command.notNow.noReason": "Вы не можете использовать эту команду сейчас",
 	"player.notFound": "Игрок не найден.",
+	"player.cantSee": "Этот игрок не видит вас.",
 	"player.blocked": "Вы заблокировали этого игрока. %unblock%",
 	"player.blocked.unblock": "[Разблокировать]",
 	"player.blocked.unblock.tooltip": "Нажмите, чтобы разблокировать игрока.",
@@ -85,14 +86,14 @@
 		"Причина: %reason%.",
 		"Забанил: %by%.",
 		"Время выдачи: %start%. (%relativeStart% назад)",
-		"Время окончания: %end%. (через %relativeEnd%)"
+		"Время окончания: %end%. (%relativeEnd%)"
 	],
 	"player.muted.header": "> Замучен",
 	"player.muted": [
 		"Причина: %reason%.",
 		"Замутил: %by%.",
 		"Время выдачи: %start%. (%relativeStart% назад)",
-		"Время окончания: %end%. (через %relativeEnd%)"
+		"Время окончания: %end%. (%relativeEnd%)"
 	],
 	"player.tooltip": [
 		"Нажмите, чтобы узнать информацию об игроке.",
@@ -137,8 +138,8 @@
 	"spawn.parkour.top.entry": "%place%. %player% (%time%)",
 	"spawn.parkour.top.time": "Ваше время: %time%.",
 	"spawn.parkour.top.place": "Ваше место: %place%/%max%.",
-	"spawn.noInteractions.disabledYou": "Вы выключили взаимодействия.",
-	"spawn.noInteractions.disabled": "Этот игрок выключил взаимодействия.",
+	"spawn.noInteractions.disabled.you": "Вы выключили взаимодействия.",
+	"spawn.noInteractions.disabled.sb": "Этот игрок выключил взаимодействия.",
 	"spawn.noInteractions.parkour": "Этот игрок на паркуре.",
 	"spawn.gadget.unknown": "Неизвестный гаджет.",
 	"spawn.gadget.notUnlocked": "Вы не разблокировали этот гаджет.",
@@ -895,6 +896,16 @@
 	"tp.usage": "Телепорт",
 	"tp.syntax": "/tp [игрок] <цель>",
 	"tp": "Вы телепортировали %from% к %to%.",
+	"effect.usage": "Выдать/забрать эффект",
+	"effect.syntax": "/effect <игрок> <эффект/clear> [время] [уровень] [флаги]",
+	"effect.invalid": "Неверный эффект.",
+	"effect.clear.all": "Очищены все эффекты у %player%.",
+	"effect.clear": "Очищены эффект %effect% у %player%.",
+	"effect": "Выдан эффект %effect% уровеня %level% на %time% игроку %player%.",
+	"give.usage": "Выдать предмет",
+	"give.syntax": "/give <игрок> <предмет> [кол-во] [nbt]",
+	"give.invalid": "Неверный предмет.",
+	"give": "Выдано %amount% штук %item% игроку %player%.",
 	"vanish.hide": "Вы скрыли %player%.",
 	"vanish.show": "Вы показали %player%.",
 	"vanish.bar": "Вы скрыты.",
@@ -903,7 +914,7 @@
 		"Причина: %reason%.",
 		"Забанил: %by%.",
 		"Время выдачи: %start%. (%relativeStart% назад)",
-		"Время окончания: %end%. (через %relativeEnd%)",
+		"Время окончания: %end%. (%relativeEnd%)",
 		"",
 		"Discord: %discord%"
 	],
@@ -911,7 +922,7 @@
 	"ban.broadcast.tooltip": [
 		"Причина: %reason%.",
 		"Забанил: %by%.",
-		"Время окончания: %end%. (через %relativeEnd%)"
+		"Время окончания: %end%. (%relativeEnd%)"
 	],
 	"ban.usage": "Забанить игрока",
 	"ban.syntax": "/ban <игрок> <время> [-s] [-i] <причина>",
@@ -951,7 +962,7 @@
 		"Причина: %reason%.",
 		"Замутил: %by%.",
 		"Время выдачи: %start%. (%relativeStart% назад)",
-		"Время окончания: %end%. (через %relativeEnd%)",
+		"Время окончания: %end%. (%relativeEnd%)",
 		"",
 		"Discord: %discord%."
 	],
@@ -959,7 +970,7 @@
 	"mute.broadcast.tooltip": [
 		"Причина: %reason%.",
 		"Забанил: %by%.",
-		"Время окончания: %end%. (через %relativeEnd%)"
+		"Время окончания: %end%. (%relativeEnd%)"
 	],
 	"mute.usage": "Замутить игрока",
 	"mute.syntax": "/mute <игрок> <время> [-s] [-i] <причина>",
@@ -980,45 +991,45 @@
 		"Причина бана: %banReason%.",
 		"Забанил: %banBy%.",
 		"Время выдачи бана: %banStart%. (%relativeBanStart% назад)",
-		"Время окончания бана: %banEnd%. (через %relativeBanEnd%)"
+		"Время окончания бана: %banEnd%. (%relativeBanEnd%)"
 	],
 	"unban.usage": "Разбанить игрока",
 	"unban.syntax": "/unban <игрок> [причина]",
 	"unban.not": "Игрок не забанен.",
 	"unban.confirm": [
-		"Разбан.",
-		"Игрок: %player%.",
+		"Разбан %player%.",
 		"Причина разбана: %reason%.",
 		"%unban%",
+		"",
 		"Причина бана: %banReason%.",
 		"Забанил: %banBy%.",
 		"Время выдачи бана: %banStart%. (%relativeBanStart% назад)",
-		"Время окончания бана: %banEnd%. (через %relativeBanEnd%)"
+		"Время окончания бана: %banEnd%. (%relativeBanEnd%)"
 	],
 	"unban.confirm.unban": "[Разбанить]",
 	"unban.confirm.unban.tooltip": "Нажмите, чтобы разбанить игрока",
 	"unmute.broadcast": "%player% размучен. %tooltip%",
 	"unmute.broadcast.tooltip": [
 		"Причина размута: %reason%.",
-		"Разбанил: %by%.",
+		"Размутил: %by%.",
 		"",
 		"Причина мута: %muteReason%.",
-		"Забанил: %muteBy%.",
+		"Замутил: %muteBy%.",
 		"Время выдачи мута: %muteStart%. (%relativeMuteStart% назад)",
-		"Время окончания мута: %muteEnd%. (через %relativeMuteEnd%)"
+		"Время окончания мута: %muteEnd%. (%relativeMuteEnd%)"
 	],
 	"unmute.usage": "Размутить игрока",
 	"unmute.syntax": "/unmute <игрок> [причина]",
-	"unmute.not": "Игрок не замучен.",
+	"unmute.not": "Игрок не в муте.",
 	"unmute.confirm": [
-		"Размут.",
-		"Игрок: %player%.",
+		"Размут %player%.",
 		"Причина размута: %reason%.",
 		"%unmute%",
+		"",
 		"Причина мута: %muteReason%.",
 		"Замутил: %muteBy%.",
-		"Время выдачи бана: %muteStart%. (%relativeMuteStart% назад)",
-		"Время окончания бана: %muteEnd%. (через %relativeMuteEnd%)"
+		"Время выдачи мута: %muteStart%. (%relativeMuteStart% назад)",
+		"Время окончания мута: %muteEnd%. (%relativeMuteEnd%)"
 	],
 	"unmute.confirm.unmute": "[Размутить]",
 	"unmute.confirm.unmute.tooltip": "Нажмите, чтобы размутить игрока"
