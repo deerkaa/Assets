@@ -18,11 +18,6 @@
 			"ru_ru": "<dark_aqua>Рыба"
 		}
 	},
-	"vtxr": {
-		"icon": "SOUL_CAMPFIRE",
-		"component": "<dark_purple>VT<gray>x<gold>R",
-		"donate": true
-	},
 	"heart": {
 		"icon": "ROSE_BUSH",
 		"component": "<red>❤"
@@ -31,9 +26,51 @@
 		"icon": "FISHING_ROD",
 		"component": "<yellow>PvE"
 	},
+	"zero": {
+		"icon": "LEATHER_HELMET",
+		"component": "<black><bold>0"
+	},
+	"d729": {
+		"icon": "END_ROD",
+		"component": "<dark_purple>D7<gray>.<red>29"
+	},
+	"beer": {
+		"icon": "POTION",
+		"component": {
+			"en_us": "<gold>Be<st>a</st>er",
+			"ru_ru": "<gold>П<st>ы</st>иво"
+		}
+	},
+	"ez": {
+		"icon": "DIAMOND_SWORD",
+		"component": "<green>e<gold>z"
+	},
+	"vtxr": {
+		"icon": "SOUL_CAMPFIRE",
+		"component": "<dark_purple>VT<gray>x<gold>R",
+		"donate": true
+	},
 	"lgbtq": {
 		"icon": "END_CRYSTAL",
 		"component": "<red>L<yellow>G<green>B<blue>T<dark_purple>Q",
+		"donate": true
+	},
+	"lt0": {
+		"icon": "WOODEN_SWORD",
+		"component": "<gray>LT0",
+		"donate": true
+	},
+	"oink": {
+		"icon": "PIG_SPAWN_EGG",
+		"component": {
+			"en_us": "<light_purple>Oink",
+			"ru_ru": "<light_purple>Хрю"
+		},
+		"donate": true
+	},
+	"69": {
+		"icon": "GOAT_HORN",
+		"component": "<red>6<dark_red>9",
 		"donate": true
 	}
 }

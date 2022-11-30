@@ -5,5 +5,9 @@
 	"names": {
 		"en_us": "Beach",
 		"ru_ru": "Пляж"
+	},
+	"jokes": {
+		"en_us": "This book may contain your joke. Suggest via Discord.",
+		"ru_ru": "В этой книге может быть твой анекдот. Предложи в Discord."
 	}
 }

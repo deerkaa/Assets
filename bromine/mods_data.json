@@ -25,6 +25,16 @@
 			"displayName": "Duel Player",
 			"type": "RUN_COMMAND",
 			"value": "duel {name}"
+		},
+		{
+			"displayName": "Invite to Party",
+			"type": "RUN_COMMAND",
+			"value": "party invite {name}"
+		},
+		{
+			"displayName": "Join Player's Party",
+			"type": "RUN_COMMAND",
+			"value": "party join {name}"
 		}
 	]
 }
