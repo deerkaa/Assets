@@ -3,6 +3,7 @@
 	"authors": [
 		"VidTu"
 	],
+	"id": "ru",
 	"ids": [
 		"ru",
 		"rpr",
@@ -21,7 +22,8 @@
 			"Администраторы: %specVendor%.",
 			"Переводчики: %translators%."
 		],
-		"shutdown": "Прокси отключено.",
+		"shutdown": "Прокси выключено.",
+		"shutdown.restart": "Прокси выключено на автоматический рестарт.",
 		"chat.yes": "[Да]",
 		"chat.accept": "(▲)",
 		"chat.decline": "(▼)",

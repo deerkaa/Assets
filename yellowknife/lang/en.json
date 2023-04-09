@@ -3,6 +3,7 @@
 	"authors": [
 		"VidTu"
 	],
+	"id": "en",
 	"ids": [
 		"en",
 		"en_au",
@@ -28,6 +29,7 @@
 			"Admins: %specVendor%."
 		],
 		"shutdown": "Proxy shutdown.",
+		"shutdown.restart": "Proxy shutdown. (Autorestart)",
 		"chat.yes": "[Yes]",
 		"chat.accept": "(▲)",
 		"chat.decline": "(▼)",
