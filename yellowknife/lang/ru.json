@@ -35,11 +35,8 @@
 		"command.unknown": "Неизвестная команда.",
 		"command.player": "Эту команду может использовать только игрок.",
 		"player.notFound": "Игрок не найден.",
-		"invalidName.short": "Ваш ник очень короткий.",
-		"invalidName.long": "Ваш ник очень длинный.",
-		"invalidName.pattern": "В вашем нике используются неверные символы.",
 		"invalidName.case": [
-		    "%title%",
+			"%title%",
 			"Вы должны зайти под ником %valid%, ваш ник - %invalid%."
 		],
 		"invalidName.case.title": "Неверный регистр ника.",
@@ -61,29 +58,6 @@
 		"login.invalid": "Неверный пароль.",
 		"login.success": "Вы вошли.",
 		"login.timeout": "Вы не успели войти.",
-		"login.ban.title": "> Вы забанены в лимбо.",
-		"login.ban.limit": [
-			"%title%",
-			"",
-			"Вы забанены за подбор паролей.",
-			"Разбан через ~30 минут от начала бана.",
-			"Администрация не может снять этот бан.",
-			"",
-			"Discord: %discord%",
-			"%nick%/%uuid%",
-			"%timestamp%"
-		],
-		"login.ban.link": [
-			"%title%",
-			"",
-			"Вы забанены через привязку к Telegram или Discord.",
-			"Разбан через ~30 минут от начала бана.",
-			"Администрация не может снять этот бан.",
-			"",
-			"Discord: %discord%",
-			"%nick%/%uuid%",
-			"%timestamp%"
-		],
 		"telegram.title": "Telegram-привязка:",
 		"telegram.subtitle": "Подтвердите вход.",
 		"telegram.chat": "Подтвердите вход через Telegram-бота.",

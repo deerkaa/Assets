@@ -41,11 +41,8 @@
 		"command.unknown": "Unknown command.",
 		"command.player": "This command can only be executed by a player.",
 		"player.notFound": "Player not found.",
-		"invalidName.short": "Your nick is too short.",
-		"invalidName.long": "Your nick is too long.",
-		"invalidName.pattern": "Your nick contains invalid characters.",
 		"invalidName.case": [
-		    "%title%",
+			"%title%",
 			"You must login as %valid%, your nick is %invalid%."
 		],
 		"invalidName.case.title": "Invalid nick case.",
@@ -67,29 +64,6 @@
 		"login.invalid": "Invalid password.",
 		"login.success": "You've logged in.",
 		"login.timeout": "You didn't login.",
-		"login.ban.title": "> You're banned in limbo.",
-		"login.ban.limit": [
-			"%title%",
-			"",
-			"You're banned for password guessing.",
-			"You'll be unbanned in ~30 minutes since ban start.",
-			"Admins can't remove this ban.",
-			"",
-			"Discord: %discord%",
-			"%nick%/%uuid%",
-			"%timestamp%"
-		],
-		"login.ban.link": [
-			"%title%",
-			"",
-			"You're banned via Telegram or Discord linking.",
-			"You'll be unbanned in ~30 minutes since ban start",
-			"Admins can't remove this ban.",
-			"",
-			"Discord: %discord%",
-			"%nick%/%uuid%",
-			"%timestamp%"
-		],
 		"telegram.title": "Telegram link:",
 		"telegram.subtitle": "Confirm login.",
 		"telegram.chat": "Confirm login via Telegram bot.",
