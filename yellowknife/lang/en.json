@@ -86,6 +86,22 @@
 			"%nick%/%uuid%",
 			"%timestamp%"
 		],
+		"legacyVersion": [
+			"%title%",
+			"",
+			"You're using deprecated version. This version is not supported. Please, use %minVersion% -> %maxVersion%.",
+			"",
+			"%continue%",
+			"%quit%"
+		],
+		"legacyVersion.title": "> Legacy Version",
+		"legacyVersion.continue": "[Continue Anyway]",
+		"legacyVersion.continue.tooltip": [
+			"Click to join the server anyway.",
+			"Note: Any bugs, crashes and problems won't be fixed for this version."
+		],
+		"legacyVersion.quit": "[Quit]",
+		"legacyVersion.quit.tooltip": "Click to quit the server.",
 		"queue.title": "Queue:",
 		"queue.subtitle": "Position: %position%.",
 		"queue.chat": [

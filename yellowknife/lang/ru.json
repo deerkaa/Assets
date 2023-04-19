@@ -82,6 +82,22 @@
 			"%nick%/%uuid%",
 			"%timestamp%"
 		],
+		"legacyVersion": [
+			"%title%",
+			"",
+			"Вы используете устаревшую версию. Эта версия не поддерживается. Пожалуйста, используйте %minVersion% -> %maxVersion%.",
+			"",
+			"%continue%",
+			"%quit%"
+		],
+		"legacyVersion.title": "> Старая версия",
+		"legacyVersion.continue": "[Продолжить]",
+		"legacyVersion.continue.tooltip": [
+			"Нажмите, чтобы зайти на сервер в любом случае.",
+			"Внимание: Баги, вылеты и другие проблемы не будут исправлены для этой версии."
+		],
+		"legacyVersion.quit": "[Выйти]",
+		"legacyVersion.quit.tooltip": "Нажмите, чтобы выйти с сервера.",
 		"queue.title": "Очередь:",
 		"queue.subtitle": "Позиция: %position%",
 		"queue.chat": [
