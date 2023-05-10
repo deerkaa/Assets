@@ -102,6 +102,19 @@
 		],
 		"legacyVersion.quit": "[Quit]",
 		"legacyVersion.quit.tooltip": "Click to quit the server.",
+		"cheatForge": [
+			"%title%",
+			"",
+			"This version of Forge contains a bug that provides an unfair advantage for PvP.",
+			"To prevent false bans and cheat occusations, you won't be able to join using this version.",
+			"",
+			"This bug affects Minecraft Forge for %versions%.",
+			"More info: %info%",
+			"",
+			"Please, use another mod loader (e.g. Fabric or Quilt), another Minecraft version, or the vanilla (unmodified) client.",
+			"If you still want to use Forge, download and install this mod: %mod%"
+		],
+		"cheatForge.title": "> Unsupported Minecraft Forge Version",
 		"queue.title": "Queue:",
 		"queue.subtitle": "Position: %position%.",
 		"queue.chat": [
