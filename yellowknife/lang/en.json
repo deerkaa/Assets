@@ -121,12 +121,12 @@
 		"link.syntax": "/link <telegram/discord> [token] [password]",
 		"link.token": "Invalid token.",
 		"link.password": "Invalid password.",
-		"link.telegram": "Write to our Telegram bot to link the account: %link%",
+		"link.telegram": "Write to Telegram bot to link the account: %link%",
 		"link.telegram.already": "You're already linked to the Telegram account.",
 		"link.telegram.confirm": "Are you sure you want to link your Minecraft account with %account% Telegram account? %yes%",
 		"link.telegram.confirm.tooltip": "Click to link with Telegram account.",
 		"link.telegram.success": "Your Minecraft account has been successfully linked with %account% Telegram account.",
-		"link.discord": "Join our Discord server to link the account: %link%",
+		"link.discord": "Join Discord server to link the account: %link%",
 		"link.discord.already": "You're already linked to the Discord account.",
 		"link.discord.confirm": "Are you sure you want to link your Minecraft account with %account% Discord account? %yes%",
 		"link.discord.confirm.tooltip": "Click to link with Discord account.",
@@ -169,6 +169,6 @@
 		"telegram.auth.allow": "Allow",
 		"telegram.auth.allow.success": "Account authorized.",
 		"telegram.auth.deny": "Deny & Ban",
-		"telegram.auth.deny.success": "Account disconnected and banned for 30 minutes."
+		"telegram.auth.deny.success": "Account disconnected and banned for 1 hour."
 	}
 }

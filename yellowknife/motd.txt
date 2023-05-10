@@ -1,2 +1,2 @@
-<dark_purple><bold>BromineMC</bold></dark_purple> ▶ <dark_green>Огонь от якорей.</dark_green> (BM1.1.7/YK1.4)
-<white>Самый <light_purple>хрю</light_purple> <white>PvP-сервер. <green>(1.9 -> 1.19.4)</green>
+<dark_purple><bold>BromineMC</bold></dark_purple> ▶ <dark_green>Эпоха 1.12.2 ушла.</dark_green> (BM1.2/YK1.4.2)
+<white>Самый <light_purple>хрю</light_purple> <white>PvP-сервер. <green>(1.16.5 -> 1.19.4)</green>

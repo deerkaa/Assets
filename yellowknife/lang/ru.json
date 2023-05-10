@@ -109,7 +109,7 @@
 		"logout.success": "Вы вышли из аккаунта.",
 		"changepassword.usage": "Сменить пароль: %syntax%",
 		"changepassword.syntax": "/changepassword <старый> <новый>",
-		"changepassword.invalid": "Неправильный старый пароль.",
+		"changepassword.invalid": "Неверный старый пароль.",
 		"changepassword.short": "Новый пароль слишком короткий.",
 		"changepassword.long": "Новый пароль слишком длинный.",
 		"changepassword.success": "Пароль изменён.",
@@ -117,12 +117,12 @@
 		"link.token": "Неверный токен.",
 		"link.password": "Неверный пароль.",
 		"link.syntax": "/link <telegram/discord> [токен] [пароль]",
-		"link.telegram": "Напишите нашему Telegram-боту, чтобы привязать аккаунт: %link%",
+		"link.telegram": "Напишите Telegram-боту, чтобы привязать аккаунт: %link%",
 		"link.telegram.already": "У вас уже привязан Telegram-аккаунт.",
 		"link.telegram.confirm": "Вы уверены, что хотите привязать свой Minecraft-аккаунт к Telegram-аккаунту %account%? %yes%",
 		"link.telegram.confirm.tooltip": "Нажмите, чтобы привязать Telegram-аккаунт.",
 		"link.telegram.success": "Ваш Minecraft-аккаунт успешно привязан к Telegram-аккаунту %account%.",
-		"link.discord": "Зайдите в наш Discord-сервер, чтобы привязать аккаунт: %link%",
+		"link.discord": "Зайдите в Discord-сервер, чтобы привязать аккаунт: %link%",
 		"link.discord.already": "У вас уже привязан Discord-аккаунт.",
 		"link.discord.confirm": "Вы уверены, что хотите привязать свой Minecraft-аккаунт к Discord-аккаунту %account%? %yes%",
 		"link.discord.confirm.tooltip": "Нажмите, чтобы привязать Discord-аккаунт.",
@@ -165,6 +165,6 @@
 		"telegram.auth.allow": "Разрешить",
 		"telegram.auth.allow.success": "Аккаунт авторизован.",
 		"telegram.auth.deny": "Запретить и забанить",
-		"telegram.auth.deny.success": "Аккаунт отключён от сервера и забанен на 30 минут."
+		"telegram.auth.deny.success": "Аккаунт отключён от сервера и забанен на 1 час."
 	}
 }
