@@ -1,13 +1,12 @@
 {
     "id": "plains",
-    "name": "pvp.map.plains",
 	"icon": "GRASS",
 	"names": {
-		"en_us": "Plains",
-		"ru_ru": "Равнины"
+		"en": "Plains",
+		"ru": "Равнины"
 	},
 	"jokes": {
-		"en_us": "This book may contain your joke. Suggest via Discord.",
-		"ru_ru": "В этой книге может быть твой анекдот. Предложи в Discord."
+		"en": "This book may contain your joke. Suggest via Discord.",
+		"ru": "В этой книге может быть твой анекдот. Предложи в Discord."
 	}
 }

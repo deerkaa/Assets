@@ -1,13 +1,12 @@
 {
     "id": "cavesncliffs",
-    "name": "pvp.map.cavesncliffs",
 	"icon": "POINTED_DRIPSTONE",
 	"names": {
-		"en_us": "Caves & Cliffs",
-		"ru_ru": "Горы и пещеры"
+		"en": "Caves & Cliffs",
+		"ru": "Горы и пещеры"
 	},
 	"jokes": {
-		"en_us": "This book may contain your joke. Suggest via Discord.",
-		"ru_ru": "В этой книге может быть твой анекдот. Предложи в Discord."
+		"en": "This book may contain your joke. Suggest via Discord.",
+		"ru": "В этой книге может быть твой анекдот. Предложи в Discord."
 	}
 }

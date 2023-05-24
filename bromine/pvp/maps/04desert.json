@@ -1,13 +1,12 @@
 {
     "id": "desert",
-    "name": "pvp.map.desert",
 	"icon": "CACTUS",
 	"names": {
-		"en_us": "Desert",
-		"ru_ru": "Пустыня"
+		"en": "Desert",
+		"ru": "Пустыня"
 	},
 	"jokes": {
-		"en_us": "This book may contain your joke. Suggest via Discord.",
-		"ru_ru": "В этой книге может быть твой анекдот. Предложи в Discord."
+		"en": "This book may contain your joke. Suggest via Discord.",
+		"ru": "В этой книге может быть твой анекдот. Предложи в Discord."
 	}
 }

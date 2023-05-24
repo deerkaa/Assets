@@ -34,12 +34,23 @@
 		"chat.tooltip.url": "Нажмите, чтобы открыть эту ссылку в браузере.",
 		"command.unknown": "Неизвестная команда.",
 		"command.player": "Эту команду может использовать только игрок.",
+		"brigadier.password": "пароль",
 		"player.notFound": "Игрок не найден.",
 		"invalidName.case": [
 			"%title%",
 			"Вы должны зайти под ником %valid%, ваш ник - %invalid%."
 		],
 		"invalidName.case.title": "Неверный регистр ника.",
+		"moving.title": "Подождите...",
+		"moving.subtitle": "НЕ двигайтесь!",
+		"moving.chat": "Пожалуйста, подождите и НЕ двигайтесь!",
+		"captcha.title": "КАПЧА:",
+		"captcha.subtitle": "Введите символы в чат.",
+		"captcha.chat": "Введите символы с картинки в чат.",
+		"captcha.wrong.title": "Неверно!",
+		"captcha.wrong.subtitle": "Попробуйте снова.",
+		"captcha.wrong.chat": "Неверная КАПЧА! Попробуйте снова.",
+		"captcha.failed": "Вы не прошли верификацию!",
 		"register.title": "Регистрация:",
 		"register.subtitle": "/reg <пароль>",
 		"register.usage": "Регистрация: %syntax%",
@@ -111,11 +122,12 @@
 			"Если вы всё ещё хотите использовать Forge, скачайте и установите этот мод: %mod%"
 		],
 		"cheatForge.title": "> Неподдерживаемая версия Minecraft Forge",
+		"queue.deprecated": "Ваш приоритет в очереди понижен, потому что вы используете устаревшую версию. Пожалуйста, используйте %minVersion% -> %maxVersion% или купите ранг, чтобы повысить приоритет.",
 		"queue.title": "Очередь:",
 		"queue.subtitle": "Позиция: %position%",
 		"queue.chat": [
 			"Вы в очереди. Ваша позиция: %position%.",
-			"Любой ранг имеет приоритетную очередь. Купить: %site%"
+			"Любой ранг имеет высокоприоритетную очередь. Купить: %site%"
 		],
 		"logout.confirm": "Вы точно хотите выйти из аккаунта? %yes%",
 		"logout.confirm.tooltip": "Нажмите, чтобы выйти из аккаунта.",

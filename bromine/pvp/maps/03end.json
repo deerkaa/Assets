@@ -1,13 +1,12 @@
 {
     "id": "end",
-    "name": "pvp.map.end",
 	"icon": "DRAGON_EGG",
 	"names": {
-		"en_us": "End",
-		"ru_ru": "Энд"
+		"en": "End",
+		"ru": "Энд"
 	},
 	"jokes": {
-		"en_us": "This book may contain your joke. Suggest via Discord.",
-		"ru_ru": "В этой книге может быть твой анекдот. Предложи в Discord."
+		"en": "This book may contain your joke. Suggest via Discord.",
+		"ru": "В этой книге может быть твой анекдот. Предложи в Discord."
 	}
 }

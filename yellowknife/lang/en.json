@@ -40,12 +40,23 @@
 		"chat.tooltip.url": "Click to open the link in the browser.",
 		"command.unknown": "Unknown command.",
 		"command.player": "This command can only be executed by a player.",
+		"brigadier.password": "password",
 		"player.notFound": "Player not found.",
 		"invalidName.case": [
 			"%title%",
 			"You must login as %valid%, your nick is %invalid%."
 		],
 		"invalidName.case.title": "Invalid nick case.",
+		"moving.title": "Wait...",
+		"moving.subtitle": "Do NOT move!",
+		"moving.chat": "Please, wait and do NOT move!",
+		"captcha.title": "CAPTCHA:",
+		"captcha.subtitle": "Type symbols into chat.",
+		"captcha.chat": "Type symbols from the picture into chat.",
+		"captcha.wrong.title": "Wrong!",
+		"captcha.wrong.subtitle": "Try again.",
+		"captcha.wrong.chat": "Wrong CAPTCHA! Try again.",
+		"captcha.failed": "You've failed the verification!",
 		"register.title": "Register:",
 		"register.subtitle": "/reg <password>",
 		"register.usage": "Register: %syntax%",
@@ -115,11 +126,12 @@
 			"If you still want to use Forge, download and install this mod: %mod%"
 		],
 		"cheatForge.title": "> Unsupported Minecraft Forge Version",
+		"queue.deprecated": "Your queue priority has been lowered because you're using deprecated version. Please, use %minVersion% -> %maxVersion% or buy a rank to have more priority.",
 		"queue.title": "Queue:",
 		"queue.subtitle": "Position: %position%.",
 		"queue.chat": [
 			"You're in queue. Your position: %position%.",
-			"Any rank has priority queue. Buy at: %site%"
+			"Any rank has high-priority queue. Buy at: %site%"
 		],
 		"logout.confirm": "Are you sure you want to log out? %yes%",
 		"logout.confirm.tooltip": "Click to log out.",

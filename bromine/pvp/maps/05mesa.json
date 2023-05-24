@@ -1,13 +1,12 @@
 {
     "id": "mesa",
-    "name": "pvp.map.mesa",
 	"icon": "RED_SAND",
 	"names": {
-		"en_us": "Mesa",
-		"ru_ru": "Меса"
+		"en": "Mesa",
+		"ru": "Меса"
 	},
 	"jokes": {
-		"en_us": "This book may contain your joke. Suggest via Discord.",
-		"ru_ru": "В этой книге может быть твой анекдот. Предложи в Discord."
+		"en": "This book may contain your joke. Suggest via Discord.",
+		"ru": "В этой книге может быть твой анекдот. Предложи в Discord."
 	}
 }

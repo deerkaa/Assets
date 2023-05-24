@@ -1,13 +1,12 @@
 {
     "id": "ocean",
-    "name": "pvp.map.ocean",
 	"icon": "SCUTE",
 	"names": {
-		"en_us": "Ocean",
-		"ru_ru": "Океан"
+		"en": "Ocean",
+		"ru": "Океан"
 	},
 	"jokes": {
-		"en_us": "This book may contain your joke. Suggest via Discord.",
-		"ru_ru": "В этой книге может быть твой анекдот. Предложи в Discord."
+		"en": "This book may contain your joke. Suggest via Discord.",
+		"ru": "В этой книге может быть твой анекдот. Предложи в Discord."
 	}
 }
