@@ -1,2 +1,2 @@
-<dark_purple><bold>BromineMC</bold></dark_purple> ▶ <dark_green>Пожалуйста, падайте.</dark_green> (BM1.2/YK2.0)
+<dark_purple><bold>BromineMC</bold></dark_purple> ▶ <dark_green>Падайте.</dark_green> (BM1.2/YK2.0.1)
 <white>Самый <light_purple>хрю</light_purple> <white>PvP-сервер. <green>(1.16.5 -> 1.19.4)</green>
