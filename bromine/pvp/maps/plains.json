@@ -1,9 +1,11 @@
 {
-    "id": "swamp",
-	"icon": "LILY_PAD",
+    "id": "plains",
+	"index": 1,
+    "name": "pvp.map.plains",
+	"icon": "GRASS",
 	"names": {
-		"en": "Swamp",
-		"ru": "Болото"
+		"en": "Plains",
+		"ru": "Равнины"
 	},
 	"jokes": {
 		"en": "This book may contain your joke. Suggest via Discord.",

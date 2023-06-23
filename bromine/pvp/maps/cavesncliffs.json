@@ -1,9 +1,11 @@
 {
-    "id": "plains",
-	"icon": "GRASS",
+    "id": "cavesncliffs",
+	"index": 2,
+    "name": "pvp.map.cavesncliffs",
+	"icon": "POINTED_DRIPSTONE",
 	"names": {
-		"en": "Plains",
-		"ru": "Равнины"
+		"en": "Caves & Cliffs",
+		"ru": "Горы и пещеры"
 	},
 	"jokes": {
 		"en": "This book may contain your joke. Suggest via Discord.",

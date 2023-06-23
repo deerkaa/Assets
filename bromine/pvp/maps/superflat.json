@@ -1,9 +1,11 @@
 {
-    "id": "beach",
-	"icon": "WATER_BUCKET",
+    "id": "superflat",
+	"index": 9,
+    "name": "pvp.map.superflat",
+	"icon": "LIME_CARPET",
 	"names": {
-		"en": "Beach",
-		"ru": "Пляж"
+		"en": "Super-flat",
+		"ru": "Супер-плоскость"
 	},
 	"jokes": {
 		"en": "This book may contain your joke. Suggest via Discord.",

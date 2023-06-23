@@ -1,9 +1,11 @@
 {
-    "id": "cavesncliffs",
-	"icon": "POINTED_DRIPSTONE",
+    "id": "mesa",
+	"index": 5,
+    "name": "pvp.map.mesa",
+	"icon": "RED_SAND",
 	"names": {
-		"en": "Caves & Cliffs",
-		"ru": "Горы и пещеры"
+		"en": "Mesa",
+		"ru": "Меса"
 	},
 	"jokes": {
 		"en": "This book may contain your joke. Suggest via Discord.",

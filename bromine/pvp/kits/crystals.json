@@ -12,6 +12,10 @@
 			"nbt": "{Unbreakable:1b,Enchantments:[{id:'sharpness',lvl:5b}]}"
 		},
 		{
+			"id": "DIAMOND_PICKAXE",
+			"nbt": "{Unbreakable:1b,Enchantments:[{id:'efficiency',lvl:5b}]}"
+		},
+		{
 			"id": "COOKED_PORKCHOP",
 			"amount": 64
 		},
@@ -20,41 +24,53 @@
 			"amount": 16
 		},
 		{
-			"id": "BOW",
-			"nbt": "{Unbreakable:1b,Enchantments:[{id:'punch',lvl:2b}]}"
-		},
-		{
 			"id": "ENDER_PEARL",
-			"amount": 16
-		},
-		{
-			"id": "END_CRYSTAL",
-			"amount": 64
+			"amount": 64,
+			"nbt": "{Whitehorse.MaxStackSize:64b}"
 		},
 		{
 			"id": "OBSIDIAN",
 			"amount": 64
 		},
 		{
-			"id": "DIAMOND_PICKAXE",
-			"nbt": "{Unbreakable:1b,Enchantments:[{id:'efficiency',lvl:5b}]}"
+			"id": "END_CRYSTAL",
+			"amount": 64
 		},
 		{
 			"id": "SPLASH_POTION",
 			"nbt": "{Potion:'strong_healing'}"
 		},
 		{
-			"id": "END_CRYSTAL",
-			"amount": 64
+			"id": "SPLASH_POTION",
+			"nbt": "{Potion:'strong_healing'}"
+		},
+		{
+			"id": "SPLASH_POTION",
+			"nbt": "{Potion:'strong_healing'}"
+		},
+		{
+			"id": "SPLASH_POTION",
+			"nbt": "{Potion:'strong_healing'}"
+		},
+		{
+			"id": "SPLASH_POTION",
+			"nbt": "{Potion:'strong_healing'}"
+		},
+		{
+			"id": "SPLASH_POTION",
+			"nbt": "{Potion:'strong_healing'}"
+		},
+		{
+			"id": "SPLASH_POTION",
+			"nbt": "{Potion:'strong_healing'}"
 		},
 		{
 			"id": "OBSIDIAN",
 			"amount": 64
 		},
 		{
-			"id": "TIPPED_ARROW",
-			"amount": 64,
-			"nbt": "{Potion:'strong_healing'}"
+			"id": "END_CRYSTAL",
+			"amount": 64
 		},
 		{
 			"id": "DIAMOND_LEGGINGS",
@@ -69,37 +85,12 @@
 		"TOTEM_OF_UNDYING",
 		"TOTEM_OF_UNDYING",
 		{
-			"id": "ENDER_PEARL",
-			"amount": 16
-		},
-		{
-			"id": "ENDER_PEARL",
-			"amount": 16
-		},
-		{
-			"id": "ENDER_PEARL",
-			"amount": 16
-		},
-		{
-			"id": "SPLASH_POTION",
-			"nbt": "{Potion:'strong_healing'}"
-		},
-		{
-			"id": "SPLASH_POTION",
-			"nbt": "{Potion:'strong_healing'}"
-		},
-		{
-			"id": "SPLASH_POTION",
-			"nbt": "{Potion:'strong_healing'}"
-		},
-		{
-			"id": "SPLASH_POTION",
-			"nbt": "{Potion:'strong_healing'}"
-		},
-		{
 			"id": "PLAYER_HEAD",
-			"nbt": "{PublicBukkitValues:{'bromine:prevent':1b,'bromine:inv_effects':[{'bromine:effect':'strength','bromine:amplifier':1b},{'bromine:effect':'speed','bromine:amplifier':1b}]}}"
+			"nbt": "{Whitehorse.MaxStackSize:1b,PublicBukkitValues:{'bromine:flags':1b,'bromine:talisman_inventory':[{'bromine:effect':'strength','bromine:amplifier':1b},{'bromine:effect':'speed','bromine:amplifier':1b}]}}"
 		},
+		null,
+		null,
+		null,
 		null,
 		null,
 		null,

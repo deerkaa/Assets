@@ -12,19 +12,21 @@
 			"nbt": "{Unbreakable:1b,Enchantments:[{id:'sharpness',lvl:5b},{id:'knockback',lvl:1b}]}"
 		},
 		{
+			"id": "NETHERITE_PICKAXE",
+			"nbt": "{Unbreakable:1b,Enchantments:[{id:'efficiency',lvl:5b}]}"
+		},
+		{
 			"id": "GOLDEN_CARROT",
-			"amount": 64,
-			"nbt": "{PublicBukkitValues:{'bromine:infinite':1b}}"
+			"amount": 64
 		},
 		{
 			"id": "GOLDEN_APPLE",
-			"amount": 64,
-			"nbt": "{PublicBukkitValues:{'bromine:infinite':1b}}"
+			"amount": 64
 		},
 		{
 			"id": "ENDER_PEARL",
 			"amount": 64,
-			"nbt": "{'Whitehorse.MaxStackSize':64b,PublicBukkitValues:{'bromine:infinite':1b}}"
+			"nbt": "{Whitehorse.MaxStackSize:64b}"
 		},
 		{
 			"id": "OBSIDIAN",
@@ -35,10 +37,6 @@
 			"id": "END_CRYSTAL",
 			"amount": 64,
 			"nbt": "{PublicBukkitValues:{'bromine:infinite':1b}}"
-		},
-		{
-			"id": "NETHERITE_PICKAXE",
-			"nbt": "{Unbreakable:1b,Enchantments:[{id:'efficiency',lvl:5b}]}"
 		},
 		{
 			"id": "RESPAWN_ANCHOR",
@@ -60,12 +58,12 @@
 		"TOTEM_OF_UNDYING",
 		"TOTEM_OF_UNDYING",
 		{
-			"id": "PLAYER_HEAD",
-			"nbt": "{PublicBukkitValues:{'bromine:prevent':1b,'bromine:inv_effects':[{'bromine:effect':'strength','bromine:amplifier':1b},{'bromine:effect':'speed','bromine:amplifier':1b}]}}"
-		},
-		{
 			"id": "NETHERITE_LEGGINGS",
 			"nbt": "{Unbreakable:1b,Enchantments:[{id:'blast_protection',lvl:4b},{id:'swift_sneak',lvl:3b}]}"
+		},
+		{
+			"id": "PLAYER_HEAD",
+			"nbt": "{Whitehorse.MaxStackSize:1b,PublicBukkitValues:{'bromine:flags':1b,'bromine:talisman_inventory':[{'bromine:effect':'strength','bromine:amplifier':1b},{'bromine:effect':'speed','bromine:amplifier':1b}]}}"
 		},
 		null,
 		null,

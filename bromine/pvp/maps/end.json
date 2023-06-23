@@ -1,9 +1,11 @@
 {
-    "id": "flat",
-	"icon": "RED_CARPET",
+    "id": "end",
+	"index": 3,
+    "name": "pvp.map.end",
+	"icon": "DRAGON_EGG",
 	"names": {
-		"en": "Flat",
-		"ru": "Плоскость"
+		"en": "End",
+		"ru": "Энд"
 	},
 	"jokes": {
 		"en": "This book may contain your joke. Suggest via Discord.",

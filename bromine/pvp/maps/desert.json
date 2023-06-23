@@ -1,9 +1,11 @@
 {
-    "id": "ocean",
-	"icon": "SCUTE",
+    "id": "desert",
+	"index": 4,
+    "name": "pvp.map.desert",
+	"icon": "CACTUS",
 	"names": {
-		"en": "Ocean",
-		"ru": "Океан"
+		"en": "Desert",
+		"ru": "Пустыня"
 	},
 	"jokes": {
 		"en": "This book may contain your joke. Suggest via Discord.",

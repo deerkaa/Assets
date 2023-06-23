@@ -24,7 +24,7 @@
 		null,
 		{
 			"id": "PLAYER_HEAD",
-			"nbt": "{PublicBukkitValues:{'bromine:prevent':1b,'bromine:inv_effects':[{'bromine:effect':'speed','bromine:amplifier':1b}]}}"
+			"nbt": "{Whitehorse.MaxStackSize:1b,PublicBukkitValues:{'bromine:flags':1b,'bromine:talisman_inventory':[{'bromine:effect':'speed','bromine:amplifier':1b}]}}"
 		},
 		null,
 		null,

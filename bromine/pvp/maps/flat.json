@@ -1,9 +1,11 @@
 {
-    "id": "river",
-	"icon": "CLAY",
+    "id": "flat",
+	"index": 8,
+    "name": "pvp.map.flat",
+	"icon": "RED_CARPET",
 	"names": {
-		"en": "River",
-		"ru": "Река"
+		"en": "Flat",
+		"ru": "Плоскость"
 	},
 	"jokes": {
 		"en": "This book may contain your joke. Suggest via Discord.",

@@ -1,9 +1,11 @@
 {
-    "id": "end",
-	"icon": "DRAGON_EGG",
+    "id": "river",
+	"index": 11,
+    "name": "pvp.map.river",
+	"icon": "CLAY",
 	"names": {
-		"en": "End",
-		"ru": "Энд"
+		"en": "River",
+		"ru": "Река"
 	},
 	"jokes": {
 		"en": "This book may contain your joke. Suggest via Discord.",

@@ -1,9 +1,11 @@
 {
-    "id": "desert",
-	"icon": "CACTUS",
+    "id": "beach",
+	"index": 6,
+    "name": "pvp.map.beach",
+	"icon": "WATER_BUCKET",
 	"names": {
-		"en": "Desert",
-		"ru": "Пустыня"
+		"en": "Beach",
+		"ru": "Пляж"
 	},
 	"jokes": {
 		"en": "This book may contain your joke. Suggest via Discord.",

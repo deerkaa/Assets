@@ -1,9 +1,11 @@
 {
-    "id": "mesa",
-	"icon": "RED_SAND",
+    "id": "ocean",
+	"index": 7,
+    "name": "pvp.map.ocean",
+	"icon": "SCUTE",
 	"names": {
-		"en": "Mesa",
-		"ru": "Меса"
+		"en": "Ocean",
+		"ru": "Океан"
 	},
 	"jokes": {
 		"en": "This book may contain your joke. Suggest via Discord.",

@@ -28,32 +28,21 @@
 			"amount": 16
 		},
 		{
-			"id": "EXPERIENCE_BOTTLE",
-			"amount": 64
-		},
-		{
 			"id": "ENDER_PEARL",
-			"amount": 16
-		},
-		{
-			"id": "ENDER_PEARL",
-			"amount": 16
-		},
-		{
-			"id": "ENDER_PEARL",
-			"amount": 16
+			"amount": 48,
+			"nbt": "{Whitehorse.MaxStackSize:48b}"
 		},
 		"TOTEM_OF_UNDYING",
 		"TOTEM_OF_UNDYING",
 		"TOTEM_OF_UNDYING",
-		{
-			"id": "ENDER_PEARL",
-			"amount": 16
-		},
 		{
 			"id": "PLAYER_HEAD",
-			"nbt": "{PublicBukkitValues:{'bromine:prevent':1b,'bromine:inv_effects':[{'bromine:effect':'strength','bromine:amplifier':1b},{'bromine:effect':'speed','bromine:amplifier':1b}]}}"
+			"nbt": "{Whitehorse.MaxStackSize:1b,PublicBukkitValues:{'bromine:flags':1b,'bromine:talisman_inventory':[{'bromine:effect':'strength','bromine:amplifier':1b},{'bromine:effect':'speed','bromine:amplifier':1b}]}}"
 		},
+		null,
+		null,
+		null,
+		null,
 		null,
 		null,
 		null,

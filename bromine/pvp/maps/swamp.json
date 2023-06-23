@@ -1,9 +1,11 @@
 {
-    "id": "superflat",
-	"icon": "LIME_CARPET",
+    "id": "swamp",
+	"index": 10,
+    "name": "pvp.map.swamp",
+	"icon": "LILY_PAD",
 	"names": {
-		"en": "Super-flat",
-		"ru": "Супер-плоскость"
+		"en": "Swamp",
+		"ru": "Болото"
 	},
 	"jokes": {
 		"en": "This book may contain your joke. Suggest via Discord.",
