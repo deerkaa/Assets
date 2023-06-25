@@ -964,11 +964,6 @@
 			"Ban reason: %reason%",
 			"Ban end time: %end% (in %relativeEnd%)"
 		],
-		"ban.info.permanent": [
-			"UUID: %uuid%",
-			"Ban reason: %reason%",
-			"This ban is permanent."
-		],
 		"kick.screen.title": "> You've been kicked",
 		"kick.screen": [
 			"%title%",
@@ -994,11 +989,6 @@
 			"UUID: %uuid%",
 			"Mute reason: %reason%",
 			"Mute end time: %end% (in %relativeEnd%)"
-		],
-		"mute.info.permanent": [
-			"UUID: %uuid%",
-			"Mute reason: %reason%",
-			"This mute is permanent."
 		],
 		"unmute.screen.title": "> You're unmuted",
 		"unmute.screen": [

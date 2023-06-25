@@ -961,11 +961,6 @@
 			"Причина бана: %reason%",
 			"Конец бана: %end% (через %relativeEnd%)"
 		],
-		"ban.info.permanent": [
-			"UUID: %uuid%",
-			"Причина бана: %reason%",
-			"Этот бан перманентный."
-		],
 		"kick.screen.title": "> Вы кикнуты",
 		"kick.screen": [
 			"%title%",
@@ -991,11 +986,6 @@
 			"UUID: %uuid%",
 			"Причина мута: %reason%",
 			"Конец мута: %end% (через %relativeEnd%)"
-		],
-		"mute.info.permanent": [
-			"UUID: %uuid%",
-			"Причина мута: %reason%",
-			"Этот мут перманентный."
 		],
 		"unmute.screen.title": "> Вы размучены",
 		"unmute.screen": [
