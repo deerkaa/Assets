@@ -1,2 +1,2 @@
-<dark_purple><bold>BromineMC</bold></dark_purple> ▶ <dark_green>Попали под мапу #69.</dark_green> (BM2.0.2/YK2.2.0)
+<dark_purple><bold>BromineMC</bold></dark_purple> ▶ <dark_green>/fastcrystals</dark_green> (BM2.0.4/YK2.2.0)
 <white>Самый <light_purple>хрю</light_purple> <white>PvP-сервер. <green>(1.16.5 -> 1.20.1)</green>
