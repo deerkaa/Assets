@@ -375,7 +375,7 @@
 		"party.kick.cancel.to": "%player% отменил приглашение в группу.",
 		"party.kick": "Вы кикнули %player% из группы.",
 		"party.kick.to": "%player% кикнул вас из группы.",
-		"party.kick.broadcast": "%target% кикнут из группы игроком %owner%.",
+		"party.kick.broadcast": "%target% кикнут из группы игроком %player%.",
 		"party.ban": "Вы забанили игрока %player% в группе.",
 		"party.unban": "Вы разбанили игрока %player% в группе.",
 		"party.leave.invite": "Вы отклонили приглашение в группу от %player%.",
