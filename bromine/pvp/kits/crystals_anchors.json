@@ -31,22 +31,22 @@
 		{
 			"id": "OBSIDIAN",
 			"amount": 64,
-			"nbt": "{PublicBukkitValues:{'bromine:infinite':1b}}"
+			"nbt": "{PublicBukkitValues:{'bromine:flags':2b}}"
 		},
 		{
 			"id": "END_CRYSTAL",
 			"amount": 64,
-			"nbt": "{PublicBukkitValues:{'bromine:infinite':1b}}"
+			"nbt": "{PublicBukkitValues:{'bromine:flags':2b}}"
 		},
 		{
 			"id": "RESPAWN_ANCHOR",
 			"amount": 64,
-			"nbt": "{PublicBukkitValues:{'bromine:infinite':1b}}"
+			"nbt": "{PublicBukkitValues:{'bromine:flags':2b}}"
 		},
 		{
 			"id": "GLOWSTONE",
 			"amount": 64,
-			"nbt": "{PublicBukkitValues:{'bromine:infinite':1b}}"
+			"nbt": "{PublicBukkitValues:{'bromine:flags':2b}}"
 		},
 		"TOTEM_OF_UNDYING",
 		"TOTEM_OF_UNDYING",
