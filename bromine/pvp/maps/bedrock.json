@@ -1,0 +1,13 @@
+{
+    "id": "bedrock",
+	"index": 12,
+	"icon": "BEDROCK",
+	"names": {
+		"en": "Bedrock",
+		"ru": "Бедрок"
+	},
+	"jokes": {
+		"en": "This book may contain your joke. Suggest via Discord.",
+		"ru": "В этой книге может быть твой анекдот. Предложи в Discord."
+	}
+}
