@@ -1,7 +1,6 @@
 {
     "id": "mesa",
 	"index": 5,
-    "name": "pvp.map.mesa",
 	"icon": "RED_SAND",
 	"names": {
 		"en": "Mesa",

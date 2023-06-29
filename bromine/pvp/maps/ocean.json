@@ -1,7 +1,6 @@
 {
     "id": "ocean",
 	"index": 7,
-    "name": "pvp.map.ocean",
 	"icon": "SCUTE",
 	"names": {
 		"en": "Ocean",

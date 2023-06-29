@@ -1,7 +1,6 @@
 {
     "id": "swamp",
 	"index": 10,
-    "name": "pvp.map.swamp",
 	"icon": "LILY_PAD",
 	"names": {
 		"en": "Swamp",

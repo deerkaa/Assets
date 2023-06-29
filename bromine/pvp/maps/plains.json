@@ -1,7 +1,6 @@
 {
     "id": "plains",
 	"index": 1,
-    "name": "pvp.map.plains",
 	"icon": "GRASS",
 	"names": {
 		"en": "Plains",

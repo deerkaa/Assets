@@ -1,7 +1,6 @@
 {
     "id": "flat",
 	"index": 8,
-    "name": "pvp.map.flat",
 	"icon": "RED_CARPET",
 	"names": {
 		"en": "Flat",

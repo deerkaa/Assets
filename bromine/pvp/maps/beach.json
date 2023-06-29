@@ -1,7 +1,6 @@
 {
     "id": "beach",
 	"index": 6,
-    "name": "pvp.map.beach",
 	"icon": "WATER_BUCKET",
 	"names": {
 		"en": "Beach",

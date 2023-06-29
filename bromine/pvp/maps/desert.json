@@ -1,7 +1,6 @@
 {
     "id": "desert",
 	"index": 4,
-    "name": "pvp.map.desert",
 	"icon": "CACTUS",
 	"names": {
 		"en": "Desert",

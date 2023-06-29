@@ -1,7 +1,6 @@
 {
     "id": "river",
 	"index": 11,
-    "name": "pvp.map.river",
 	"icon": "CLAY",
 	"names": {
 		"en": "River",

@@ -1,7 +1,6 @@
 {
     "id": "end",
 	"index": 3,
-    "name": "pvp.map.end",
 	"icon": "DRAGON_EGG",
 	"names": {
 		"en": "End",
