@@ -157,7 +157,7 @@
 		"telegram.link.usage": "Link an account: %syntax%",
 		"telegram.link.syntax": "/link <nick>",
 		"telegram.link.offline": "Join the game to link an account.",
-		"telegram.link.success": "Enter the command %command% to link the account. You have 2 minutes.",
+		"telegram.link.success": "Enter the command %command% IN THE GAME to link the account. You have 2 minutes.",
 		"telegram.link.success.command": "/link %token% <password>",
 		"telegram.link.feedback": "Account %name% has been linked.",
 		"telegram.accounts.usage": "Linked accounts: %syntax%",
