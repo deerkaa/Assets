@@ -1,0 +1,13 @@
+{
+    "id": "sandbox",
+	"index": 14,
+	"icon": "SAND",
+	"names": {
+		"en": "Sandbox",
+		"ru": "Песочница"
+	},
+	"jokes": {
+		"en": "This book may contain your joke. Suggest via Discord.",
+		"ru": "В этой книге может быть твой анекдот. Предложи в Discord."
+	}
+}

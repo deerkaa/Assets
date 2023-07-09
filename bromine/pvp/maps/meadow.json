@@ -1,0 +1,13 @@
+{
+    "id": "meadow",
+	"index": 14,
+	"icon": "OXEYE_DAISY",
+	"names": {
+		"en": "Meadow",
+		"ru": "Луг"
+	},
+	"jokes": {
+		"en": "This book may contain your joke. Suggest via Discord.",
+		"ru": "В этой книге может быть твой анекдот. Предложи в Discord."
+	}
+}

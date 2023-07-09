@@ -1,0 +1,13 @@
+{
+    "id": "nether",
+	"index": 13,
+	"icon": "NETHERITE_INGOT",
+	"names": {
+		"en": "Nether",
+		"ru": "Незер"
+	},
+	"jokes": {
+		"en": "This book may contain your joke. Suggest via Discord.",
+		"ru": "В этой книге может быть твой анекдот. Предложи в Discord."
+	}
+}
