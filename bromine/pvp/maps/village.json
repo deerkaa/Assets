@@ -1,10 +1,10 @@
 {
-    "id": "meadow",
-	"index": 15,
-	"icon": "OXEYE_DAISY",
+    "id": "village",
+	"index": 16,
+	"icon": "LECTERN",
 	"names": {
-		"en": "Meadow",
-		"ru": "Луг"
+		"en": "Village",
+		"ru": "Деревня"
 	},
 	"jokes": {
 		"en": "This book may contain your joke. Suggest via Discord.",
