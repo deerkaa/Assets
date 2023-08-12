@@ -76,8 +76,6 @@
 			"",
 			"^ Nick ^"
 		],
-		"nick.laby": "Nick",
-		"nick.laby.ph": "jeb_",
 		"refresh": "Refresh",
 		"entry.null": "This thing is gone...",
 		"available.desc": "Available from %rank% rank.",
@@ -248,6 +246,14 @@
 		"settings.gui.visualEffects.true": "Enabled",
 		"settings.gui.visualEffects.false": "Disabled",
 		"settings.gui.suffix": "Suffix",
+		"settings.gui.killEffect": "Kill Effect",
+		"settings.gui.winEffect": "Win Effect",
+		"settings.gui.duelRequests": "Duel Requests",
+		"settings.gui.duelRequests.true": "Enabled",
+		"settings.gui.duelRequests.false": "Disabled",
+		"settings.gui.parkourPlayers": "Parkour Players",
+		"settings.gui.parkourPlayers.true": "Enabled",
+		"settings.gui.parkourPlayers.false": "Disabled",
 		"settings.gui.spawnFly": "Spawn Fly",
 		"settings.gui.spawnFly.true": "Enabled",
 		"settings.gui.spawnFly.false": "Disabled",
@@ -533,8 +539,6 @@
 			"",
 			"^ Level ^"
 		],
-		"kitedit.enchant.custom.laby": "Level",
-		"kitedit.enchant.custom.laby.ph": "1-255",
 		"kitedit.enchant.take": "Take: %left%",
 		"kitedit.potion": "Potions",
 		"kitedit.potion.1": "Stack by 1",
@@ -570,16 +574,12 @@
 			"",
 			"^ Level ^"
 		],
-		"kitedit.customPotion.customLevel.laby": "Level",
-		"kitedit.customPotion.customLevel.laby.ph": "1-256",
 		"kitedit.customPotion.customTime": [
 			"",
 			"",
 			"",
 			"^ Time ^"
 		],
-		"kitedit.customPotion.customTime.laby": "Time",
-		"kitedit.customPotion.customTime.laby.ph": "1d1h1m1s",
 		"kitedit.customPotion.take": "Take: %left%",
 		"kitedit.talisman.hand": "Hand Talismans",
 		"kitedit.talisman.inventory": "Inventory Talismans",
@@ -601,8 +601,6 @@
 			"",
 			"^ Level ^"
 		],
-		"kitedit.customTalisman.customLevel.laby": "Level",
-		"kitedit.customTalisman.customLevel.laby.ph": "1-256",
 		"kitedit.customTalisman.take": "Take: %left%",
 		"kitedit.utils": "Utils",
 		"kitedit.utils.creative": "Creative Mode",
@@ -629,8 +627,6 @@
 			"",
 			"^ Name ^"
 		],
-		"kitedit.utils.name.laby": "Name:",
-		"kitedit.utils.name.laby.ph": "pvp kit 4 killin nubz",
 		"kitedit.utils.name.success": "Kit name changed to %name%.",
 		"kitedit.editor": "Item Editor",
 		"kitedit.editor.take": "Take: %left%",
@@ -657,8 +653,6 @@
 			"",
 			"^ Stack ^"
 		],
-		"kitedit.editor.stacking.laby": "Stack",
-		"kitedit.editor.stacking.laby.ph": "1-64",
 		"kitedit.editor.cooldown": "Cooldown",
 		"kitedit.editor.cooldown.add": "Add: %left%",
 		"kitedit.editor.cooldown.modify":  [
@@ -676,8 +670,6 @@
 			"",
 			"^ Cooldown ^"
 		],
-		"kitedit.editor.cooldown.laby": "Cooldown",
-		"kitedit.editor.cooldown.laby.ph": "1h42m19s",
 		"kitedit.editor.dupe": "Dupe",
 		"kitedit.customizer": "Item Customizer",
 		"kitedit.customizer.potion": "Customize Potion Color",
@@ -701,8 +693,6 @@
 			"",
 			"^ Color ^"
 		],
-		"kitedit.customizer.color.laby": "Color",
-		"kitedit.customizer.color.laby.ph": "0-255",
 		"kitedit.sign.save": [
 			"===============",
 			"Save",
@@ -771,6 +761,7 @@
 		"item.stacked": "Stack size: %amount%",
 		"item.infinite": "Infinite item.",
 		"item.cooldown": "Cooldown: %time%",
+		"item.noPlace": "Not placeable.",
 		"kit": "Kit",
 		"kit.use": "Use: %left%",
 		"kit.preview": "Preview: %right%",
@@ -889,6 +880,7 @@
 		"killEffect.beam": "Purple Beam",
 		"killEffect.anvil": "Falling Anvil",
 		"killEffect.fire": "Fire",
+		"killEffect.random": "Random",
 		"killEffect.gui.title": "Kill Effects",
 		"killEffect.gui.remove": "Remove Kill Effect",
 		"winEffect.null": "You can't use this win effect.",
@@ -898,6 +890,7 @@
 		"winEffect.ward": "'Ward' Record",
 		"winEffect.stal": "'Stal' Record",
 		"winEffect.pigstep": "'Pigstep' Record",
+		"winEffect.random": "Random",
 		"winEffect.gui.title": "Win Effects",
 		"winEffect.gui.remove": "Remove Win Effect",
 		"fastcrystals": "Fast crystals have been %state%.",
@@ -915,12 +908,13 @@
 		"queue.usage.leave": "Leave the queue: %syntax%",
 		"queue.usage.play": "Duel via queue: %syntax%",
 		"queue.syntax": "/queue",
-		"queue.syntax.join": "/queue join",
+		"queue.syntax.join": "/queue join [last]",
 		"queue.syntax.leave": "/queue leave",
 		"queue.syntax.play": "/queue play <player>",
 		"queue.already": "You're already in the queue.",
 		"queue.not": "You're not in the queue.",
 		"queue.notTo": "This player is not in the queue.",
+		"queue.lastNull": "You didn't play via queue.",
 		"queue.join": "You've joined the queue.",
 		"queue.leave": "You've left the queue.",
 		"queue.kick": "You've been kicked from the queue because you're %reason%.",
@@ -928,6 +922,10 @@
 		"queue.startBy": "%player% started the duel with you via queue.",
 		"queue.gui": "Queue",
 		"queue.gui.join": "Join Queue",
+		"queue.gui.join.desc": [
+			"Join: %left%",
+			"Repeat: %right%"
+		],
 		"queue.gui.leave": "Leave Queue",
 		"queue.gui.leave.desc": [
 			"You're in queue.",

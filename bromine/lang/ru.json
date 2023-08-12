@@ -69,8 +69,6 @@
 			"",
 			"^ Ник ^"
 		],
-		"nick.laby": "Ник",
-		"nick.laby.ph": "jeb_",
 		"refresh": "Обновить",
 		"entry.null": "Этого больше нет...",
 		"available.desc": "Доступно с ранга %rank%.",
@@ -245,6 +243,14 @@
 		"settings.gui.visualEffects.true": "Включены",
 		"settings.gui.visualEffects.false": "Выключены",
 		"settings.gui.suffix": "Суффикс",
+		"settings.gui.killEffect": "Эффект убийства",
+		"settings.gui.winEffect": "Эффект победы",
+		"settings.gui.duelRequests": "Запросы на дуэль",
+		"settings.gui.duelRequests.true": "Включены",
+		"settings.gui.duelRequests.false": "Выключены",
+		"settings.gui.parkourPlayers": "Игроки на паркуре",
+		"settings.gui.parkourPlayers.true": "Включены",
+		"settings.gui.parkourPlayers.false": "Выключены",
 		"settings.gui.spawnFly": "Полёт на спавне",
 		"settings.gui.spawnFly.true": "Включён",
 		"settings.gui.spawnFly.false": "Выключен",
@@ -530,8 +536,6 @@
 			"",
 			"^ Уровень ^"
 		],
-		"kitedit.enchant.custom.laby": "Уровень",
-		"kitedit.enchant.custom.laby.ph": "1-255",
 		"kitedit.enchant.take": "Забрать: %left%",
 		"kitedit.potion": "Зелья",
 		"kitedit.potion.1": "Стакать по 1 штуке",
@@ -567,16 +571,12 @@
 			"",
 			"^ Уровень ^"
 		],
-		"kitedit.customPotion.customLevel.laby": "Уровень",
-		"kitedit.customPotion.customLevel.laby.ph": "1-256",
 		"kitedit.customPotion.customTime": [
 			"",
 			"",
 			"",
 			"^ Время ^"
 		],
-		"kitedit.customPotion.customTime.laby": "Время",
-		"kitedit.customPotion.customTime.laby.ph": "1d1h1m1s",
 		"kitedit.customPotion.take": "Забрать: %left%",
 		"kitedit.talisman.hand": "Ручные талисманы",
 		"kitedit.talisman.inventory": "Инвентарные талисманы",
@@ -598,8 +598,6 @@
 			"",
 			"^ Уровень ^"
 		],
-		"kitedit.customTalisman.customLevel.laby": "Уровень",
-		"kitedit.customTalisman.customLevel.laby.ph": "1-256",
 		"kitedit.customTalisman.take": "Забрать: %left%",
 		"kitedit.utils": "Утилиты",
 		"kitedit.utils.creative": "Творческий режим",
@@ -626,8 +624,6 @@
 			"",
 			"^ Название ^"
 		],
-		"kitedit.utils.name.laby": "Name:",
-		"kitedit.utils.name.laby.ph": "топ кит штоби убеват нубоф",
 		"kitedit.utils.name.success": "Название набора изменено на %name%.",
 		"kitedit.editor": "Редактор предметов",
 		"kitedit.editor.take": "Забрать: %left%",
@@ -654,8 +650,6 @@
 			"",
 			"^ Стакинг ^"
 		],
-		"kitedit.editor.stacking.laby": "Стакинг",
-		"kitedit.editor.stacking.laby.ph": "1-64",
 		"kitedit.editor.cooldown": "Задержка",
 		"kitedit.editor.cooldown.add": "Добавить: %left%",
 		"kitedit.editor.cooldown.modify":  [
@@ -673,8 +667,6 @@
 			"",
 			"^ Задержка ^"
 		],
-		"kitedit.editor.cooldown.laby": "Задержка",
-		"kitedit.editor.cooldown.laby.ph": "1h42m19s",
 		"kitedit.editor.dupe": "Дупликат",
 		"kitedit.customizer": "Кастомизатор предметов",
 		"kitedit.customizer.potion": "Настроить цвет зелья",
@@ -698,8 +690,6 @@
 			"",
 			"^ Цвет ^"
 		],
-		"kitedit.customizer.color.laby": "Цвет",
-		"kitedit.customizer.color.laby.ph": "0-255",
 		"kitedit.sign.save": [
 			"===============",
 			"Сохранить",
@@ -768,6 +758,7 @@
 		"item.stacked": "Размер стака: %amount%",
 		"item.infinite": "Бесконечный предмет.",
 		"item.cooldown": "Задержка: %time%",
+		"item.noPlace": "Нельзя поставить.",
 		"kit": "Набор",
 		"kit.use": "Использовать: %left%",
 		"kit.preview": "Предпросмотр: %right%",
@@ -886,6 +877,7 @@
 		"killEffect.beam": "Фиолетовый луч",
 		"killEffect.anvil": "Падающая наковальня",
 		"killEffect.fire": "Огонь",
+		"killEffect.random": "Случайный",
 		"killEffect.gui.title": "Эффекты убийства",
 		"killEffect.gui.remove": "Убрать эффект убийства",
 		"winEffect.null": "Вы не можете использовать этот эффект победы.",
@@ -895,6 +887,7 @@
 		"winEffect.ward": "Пластинка 'Ward'",
 		"winEffect.stal": "Пластинка 'Stal'",
 		"winEffect.pigstep": "Пластинка 'Pigstep'",
+		"winEffect.random": "Случайный",
 		"winEffect.gui.title": "Эффекты победы",
 		"winEffect.gui.remove": "Убрать эффект победы",
 		"fastcrystals": "Быстрые кристаллы были %state%.",
@@ -912,12 +905,13 @@
 		"queue.usage.leave": "Выйти из очереди: %syntax%",
 		"queue.usage.play": "Дуэль через очередь: %syntax%",
 		"queue.syntax": "/queue",
-		"queue.syntax.join": "/queue join",
+		"queue.syntax.join": "/queue join [last]",
 		"queue.syntax.leave": "/queue leave",
 		"queue.syntax.play": "/queue play <игрок>",
 		"queue.already": "Вы уже в очереди. %leave%",
 		"queue.not": "Вы не в очереди.",
 		"queue.notTo": "Этот игрок не в очереди.",
+		"queue.lastNull": "Вы не играли через очередь.",
 		"queue.join": "Вы вошли в очередь.",
 		"queue.leave": "Вы вышли из очереди.",
 		"queue.kick": "Вы были выкинуты из очереди, потому что вы %reason%.",
@@ -925,6 +919,10 @@
 		"queue.startBy": "%player% начал дуэль с вами через очередь.",
 		"queue.gui": "Очередь",
 		"queue.gui.join": "Войти в очередь",
+		"queue.gui.join.desc": [
+			"Войти: %left%",
+			"Повтор: %right%"
+		],
 		"queue.gui.leave": "Выйти из очереди",
 		"queue.gui.leave.desc": [
 			"Вы в очереди.",
