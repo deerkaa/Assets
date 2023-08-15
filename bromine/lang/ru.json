@@ -61,6 +61,7 @@
 		"notNow": "Вы не можете делать это сейчас, потому что вы %reason%.",
 		"notNow.by": "Этот игрок не может делать это сейчас, потому что он %reason%.",
 		"notNow.kitedit": "в редакторе наборов",
+		"notNow.parkour": "на паркуре",
 		"notNow.game": "в игре",
 		"notNow.arena": "на арене",
 		"nick.sign": [
@@ -448,7 +449,9 @@
 		"arena.reset": "Арена сброшена!",
 		"arena.gui": "Арены",
 		"arena.gui.create": "Создать арену",
+		"arena.gui.create.command": "Команда: /arena create",
 		"arena.gui.your": "Ваша арена",
+		"arena.gui.your.command": "Команда: /arena player %player%",
 		"arena.gui.entry": [
 			"Игроки: %players%",
 			"",

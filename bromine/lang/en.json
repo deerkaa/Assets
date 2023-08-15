@@ -68,6 +68,7 @@
 		"notNow": "You can't do this right now because you're %reason%.",
 		"notNow.by": "This player can't do this right now because they're %reason%.",
 		"notNow.kitedit": "in the kit editor",
+		"notNow.parkour": "on the parkour",
 		"notNow.game": "in game",
 		"notNow.arena": "on arena",
 		"nick.sign": [
@@ -451,7 +452,9 @@
 		"arena.reset": "Arena reset!",
 		"arena.gui": "Arenas",
 		"arena.gui.create": "Create Arena",
+		"arena.gui.create.command": "Command: /arena create",
 		"arena.gui.your": "Your Arena",
+		"arena.gui.your.command": "Command: /arena player %player%",
 		"arena.gui.entry": [
 			"Players: %players%",
 			"",
