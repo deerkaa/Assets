@@ -911,7 +911,7 @@
 		"queue.syntax.join": "/queue join [last]",
 		"queue.syntax.leave": "/queue leave",
 		"queue.syntax.play": "/queue play <игрок>",
-		"queue.already": "Вы уже в очереди. %leave%",
+		"queue.already": "Вы уже в очереди.",
 		"queue.not": "Вы не в очереди.",
 		"queue.notTo": "Этот игрок не в очереди.",
 		"queue.lastNull": "Вы не играли через очередь.",
